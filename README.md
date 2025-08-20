@@ -127,8 +127,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 https://youtu.be/6GG_6zgQanM
 ## Contact
 
-Md Athik - www.mohdathik@gmail.com
-Project Link: https://github.com/mdathik07/AI-POWERED-GOOGLE-ADS-CAMPAIGN-AUTOMATION-PLATFORM 
+Balaji.V.N - www.balajinarayan1964@gmail.com
+Project Link: https://github.com/Balaji-vnls/AI-POWERED-GOOGLE-ADS-CAMPAIGN-AUTOMATION-TOOL.git
 
 
 
