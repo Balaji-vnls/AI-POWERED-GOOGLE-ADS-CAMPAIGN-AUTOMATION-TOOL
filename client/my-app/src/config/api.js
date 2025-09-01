@@ -1,4 +1,6 @@
-const API_BASE_URL = process.env.REACT_APP_API_URL || 'https://add-backend-me45.onrender.com';
+const API_BASE_URL =
+  process.env.REACT_APP_API_URL ||
+  'https://ai-powered-google-ads-campaign.onrender.com';
 
 export const API_ENDPOINTS = {
   AUTH: {
@@ -15,5 +17,4 @@ export const API_ENDPOINTS = {
   },
 };
 
-
-export default API_BASE_URL; 
+export default API_BASE_URL;
